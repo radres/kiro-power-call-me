@@ -1,0 +1,26 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "call-me",
+  "version": "1.0.0",
+  "description": "Let Kiro ring your iPhone, read you a question or a status update, and get your spoken answer back as text, or just text you and wait for a reply. For long tasks that need a decision while you are away from the keyboard.",
+  "author": {
+    "name": "Serdar Oztetik",
+    "url": "https://callmemcp.com",
+    "email": "serdar.oztetik@gmail.com"
+  },
+  "homepage": "https://callmemcp.com",
+  "repository": "https://github.com/radres/kiro-power-call-me",
+  "license": "MIT",
+  "keywords": [
+    "call me",
+    "ring me",
+    "phone me",
+    "text my phone",
+    "phone call",
+    "notify me",
+    "away from keyboard",
+    "human-in-the-loop",
+    "approval",
+    "iphone"
+  ]
+}
