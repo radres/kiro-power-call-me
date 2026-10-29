@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "call-me",
-  "version": "1.0.0",
-  "description": "Let Kiro ring your iPhone, read you a question or a status update, and get your spoken answer back as text, or just text you and wait for a reply. For long tasks that need a decision while you are away from the keyboard.",
+  "version": "1.0.1",
+  "description": "Let Kiro ring your phone (iPhone or Android), read you a question or a status update, and get your spoken answer back as text, or just text you and wait for a reply. For long tasks that need a decision while you are away from the keyboard.",
   "author": {
     "name": "Serdar Oztetik",
     "url": "https://callmemcp.com",
@@ -21,6 +21,7 @@
     "away from keyboard",
     "human-in-the-loop",
     "approval",
-    "iphone"
+    "iphone",
+    "android"
   ]
 }
